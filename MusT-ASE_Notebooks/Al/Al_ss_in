@@ -1,0 +1,18 @@
+Al Single Site Potential
+Al_ss_out                    Output file name. If blank, data will show on screen
+1                    Print level
+1                    Crystal type (1=FCC,2=BCC)
+3                    lmax
+7.65339080963956                    Lattice constant
+1                    Number of spins
+1                    Exchange Correlation type (1=vb-hedin,2=vosko)
+1                    Number of components
+13  0.0                    Atomic number, Magnetic moment
+1.0                    Concentrations
+0.0  0.0                    mt radius, ws radius
+Al_a_pot                    Input potential file
+Al_ss_pot                    Output potential file
+Al_ss_k                    Keep file
+10 -0.4 0.3                    e-grid: ndiv(=#div/0.1Ryd), bott, eimag
+0.6982371270241761 0.6982371270241761                    Fermi energy (estimate)
+50 0.1                    Number of scf iterations, Mixing parameter

@@ -1,0 +1,9 @@
+Title:Ni Atomic Potential
+Ni_a_out                    Output file name. If blank, data will show on screen
+28                    Atomic number
+0.0                    Magnetic moment
+1                    Number of spins
+1                    Exchange-correlation type (1=vb-hedin,2=vosko)
+50                    Number of Iterations
+0.1                    Mixing parameter
+Ni_a_pot                    Output potential file

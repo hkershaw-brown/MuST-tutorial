@@ -1,0 +1,22 @@
+================================================================================
+                           Input Parameter Data File                            
+================================================================================
+                  * * *              * * *              * * *              
+================================================================================
+                           System Related Parameters                            
+================================================================================
+No. Atoms in System (> 0)  ::  1
+================================================================================
+                  * * *              * * *              * * *              
+================================================================================
+Default Potential Input File Name  ::  Al_ss_pot
+Default Potential Output File Name  ::  Al
+Default Potential Input File Form  ::  0
+Default Potential Output File Form  ::  0
+No. Iterations (> 0)  ::  50
+Method of SCF Calculation  ::  2
+Potential Type (>= 0)  ::  0
+Exch-Corr. LDA Type (>= 0)  ::  GGA_X_PBE_SOL+GGA_C_PBE_SOL
+Spin Index Param (>= 1)  ::  1
+Kx, Ky, Kz Division (> 0)  ::  12, 12, 12
+Symmetrize BZ Integration  ::  1
